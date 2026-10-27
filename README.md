@@ -1,4 +1,6 @@
-# School 21 — проекты DevOps-трека
+# School 21
+
+## проекты DevOps-трека
 
 Учебные проекты DevOps-ветки Школы 21. В каждой папке — отчёт о выполнении со скриншотами и описание использованных инструментов.
 
@@ -11,7 +13,7 @@
 
 Проценты выше 100 — выполненные дополнительные задания.
 
-## Стек по трёку
+### Стек по трёку
 
 Ubuntu Server · systemd · netplan · iproute2 · iptables · dhcpd · tcpdump · nmap · iperf3 · OpenSSH · nginx · bash · awk/sed · Prometheus · Grafana · Node Exporter · GoAccess
 
