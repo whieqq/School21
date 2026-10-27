@@ -9,7 +9,7 @@
 | [DO1_Linux](DO1_Linux) | Установка и основы администрирования Linux | 100% |
 | [DO2_LinuxNetwork](DO2_LinuxNetwork) | Сети Linux: маршрутизация, iptables, DHCP, NAT | 140% |
 | [DO3_LinuxMonitoring_v1_0](DO3_LinuxMonitoring_v1_0) | Bash-скриптинг, сбор информации о системе | 100% |
-| DO4_LinuxMonitoring_v2_0 | Мониторинг: Prometheus, Grafana, свой экспортёр | 143% |
+| [DO4_LinuxMonitoring_v2_0](DO4_LinuxMonitoring_v2_0) | Мониторинг: Prometheus, Grafana, свой экспортёр | 143% |
 
 Проценты выше 100 - выполненные дополнительные задания.
 
